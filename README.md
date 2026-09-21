@@ -5,8 +5,7 @@ The project aims to provide a usable algorithm that takes a partial differential
 
 # Objectives
 Given a Partial Differentail operator 
+
 $$
-D : C^\infty(\mathbb{R}, \mathbb{R})
-\longrightarrow
-C^\infty(\mathbb{R}, \mathbb{R})
+D : C^\infty(\mathbb{R}, \mathbb{R}) \longrightarrow C^\infty(\mathbb{R}, \mathbb{R})
 $$
